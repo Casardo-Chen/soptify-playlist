@@ -1,6 +1,6 @@
 # Spotify Playlist Optimizer
 Data Structure Final Project<br />
-Author: The Spotify Consulting Team (Anna Koziol, Alana Riemenschneider, Meng Chen, Mitchell Trossen)
+Author: The Spotify Consulting Team (Meng Chen, Anna Koziol, Alana Riemenschneider, Mitchell Trossen)
 
 ## Step 1 - use pip to install spotipy
 `pip install spotipy --upgrade`
