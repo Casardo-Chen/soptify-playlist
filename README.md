@@ -1,5 +1,6 @@
 # Spotify Playlist Optimizer
-Data Structure Final Project<br />
+Data Structure Final Project Exceptional Creative Project Honorable Mention 🏅
+
 Author: The Spotify Consulting Team (Meng Chen, Anna Koziol, Alana Riemenschneider, Mitchell Trossen)
 
 ## Step 1 - use pip to install spotipy
